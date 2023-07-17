@@ -1,6 +1,8 @@
 # Numeric Regular Expression
 A regular expression language for working with numerical sets.
 
+[Academic document describing the language in portuguese](https://revistas.unoeste.br/index.php/ce/article/view/1016)
+
 # Usage
 
 Example:
